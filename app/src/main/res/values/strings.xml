@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dudos</string>
+    <string-array name="list">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
